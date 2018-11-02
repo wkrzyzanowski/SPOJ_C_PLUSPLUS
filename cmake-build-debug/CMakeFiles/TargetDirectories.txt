@@ -1,0 +1,3 @@
+C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir
+C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
