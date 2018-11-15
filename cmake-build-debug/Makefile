@@ -149,6 +149,33 @@ EUC_GAME.cpp.s:
 	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.s
 .PHONY : EUC_GAME.cpp.s
 
+FIBOMACIERZE.obj: FIBOMACIERZE.cpp.obj
+
+.PHONY : FIBOMACIERZE.obj
+
+# target to build an object file
+FIBOMACIERZE.cpp.obj:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj
+.PHONY : FIBOMACIERZE.cpp.obj
+
+FIBOMACIERZE.i: FIBOMACIERZE.cpp.i
+
+.PHONY : FIBOMACIERZE.i
+
+# target to preprocess a source file
+FIBOMACIERZE.cpp.i:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.i
+.PHONY : FIBOMACIERZE.cpp.i
+
+FIBOMACIERZE.s: FIBOMACIERZE.cpp.s
+
+.PHONY : FIBOMACIERZE.s
+
+# target to generate assembly for a file
+FIBOMACIERZE.cpp.s:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.s
+.PHONY : FIBOMACIERZE.cpp.s
+
 FZI_STEF.obj: FZI_STEF.cpp.obj
 
 .PHONY : FZI_STEF.obj
@@ -203,6 +230,33 @@ PTEST.cpp.s:
 	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/PTEST.cpp.s
 .PHONY : PTEST.cpp.s
 
+RELACJA.obj: RELACJA.cpp.obj
+
+.PHONY : RELACJA.obj
+
+# target to build an object file
+RELACJA.cpp.obj:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj
+.PHONY : RELACJA.cpp.obj
+
+RELACJA.i: RELACJA.cpp.i
+
+.PHONY : RELACJA.i
+
+# target to preprocess a source file
+RELACJA.cpp.i:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.i
+.PHONY : RELACJA.cpp.i
+
+RELACJA.s: RELACJA.cpp.s
+
+.PHONY : RELACJA.s
+
+# target to generate assembly for a file
+RELACJA.cpp.s:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.s
+.PHONY : RELACJA.cpp.s
+
 RNO_DOD.obj: RNO_DOD.cpp.obj
 
 .PHONY : RNO_DOD.obj
@@ -229,6 +283,33 @@ RNO_DOD.s: RNO_DOD.cpp.s
 RNO_DOD.cpp.s:
 	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/RNO_DOD.cpp.s
 .PHONY : RNO_DOD.cpp.s
+
+STOS.obj: STOS.cpp.obj
+
+.PHONY : STOS.obj
+
+# target to build an object file
+STOS.cpp.obj:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj
+.PHONY : STOS.cpp.obj
+
+STOS.i: STOS.cpp.i
+
+.PHONY : STOS.i
+
+# target to preprocess a source file
+STOS.cpp.i:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/STOS.cpp.i
+.PHONY : STOS.cpp.i
+
+STOS.s: STOS.cpp.s
+
+.PHONY : STOS.s
+
+# target to generate assembly for a file
+STOS.cpp.s:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/STOS.cpp.s
+.PHONY : STOS.cpp.s
 
 SUMAN.obj: SUMAN.cpp.obj
 
@@ -350,15 +431,24 @@ help:
 	@echo ... EUC_GAME.obj
 	@echo ... EUC_GAME.i
 	@echo ... EUC_GAME.s
+	@echo ... FIBOMACIERZE.obj
+	@echo ... FIBOMACIERZE.i
+	@echo ... FIBOMACIERZE.s
 	@echo ... FZI_STEF.obj
 	@echo ... FZI_STEF.i
 	@echo ... FZI_STEF.s
 	@echo ... PTEST.obj
 	@echo ... PTEST.i
 	@echo ... PTEST.s
+	@echo ... RELACJA.obj
+	@echo ... RELACJA.i
+	@echo ... RELACJA.s
 	@echo ... RNO_DOD.obj
 	@echo ... RNO_DOD.i
 	@echo ... RNO_DOD.s
+	@echo ... STOS.obj
+	@echo ... STOS.i
+	@echo ... STOS.s
 	@echo ... SUMAN.obj
 	@echo ... SUMAN.i
 	@echo ... SUMAN.s

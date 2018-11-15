@@ -160,6 +160,45 @@ CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Wiktor\CLionProjects\SPOJ_C++\EUC_GAME.cpp -o CMakeFiles\SPOJ_C__.dir\EUC_GAME.cpp.s
 
+CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj: CMakeFiles/SPOJ_C__.dir/flags.make
+CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj: ../STOS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Wiktor\CLionProjects\SPOJ_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SPOJ_C__.dir\STOS.cpp.obj -c C:\Users\Wiktor\CLionProjects\SPOJ_C++\STOS.cpp
+
+CMakeFiles/SPOJ_C__.dir/STOS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SPOJ_C__.dir/STOS.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Wiktor\CLionProjects\SPOJ_C++\STOS.cpp > CMakeFiles\SPOJ_C__.dir\STOS.cpp.i
+
+CMakeFiles/SPOJ_C__.dir/STOS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SPOJ_C__.dir/STOS.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Wiktor\CLionProjects\SPOJ_C++\STOS.cpp -o CMakeFiles\SPOJ_C__.dir\STOS.cpp.s
+
+CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj: CMakeFiles/SPOJ_C__.dir/flags.make
+CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj: ../RELACJA.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Wiktor\CLionProjects\SPOJ_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SPOJ_C__.dir\RELACJA.cpp.obj -c C:\Users\Wiktor\CLionProjects\SPOJ_C++\RELACJA.cpp
+
+CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Wiktor\CLionProjects\SPOJ_C++\RELACJA.cpp > CMakeFiles\SPOJ_C__.dir\RELACJA.cpp.i
+
+CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Wiktor\CLionProjects\SPOJ_C++\RELACJA.cpp -o CMakeFiles\SPOJ_C__.dir\RELACJA.cpp.s
+
+CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj: CMakeFiles/SPOJ_C__.dir/flags.make
+CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj: ../FIBOMACIERZE.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Wiktor\CLionProjects\SPOJ_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SPOJ_C__.dir\FIBOMACIERZE.cpp.obj -c C:\Users\Wiktor\CLionProjects\SPOJ_C++\FIBOMACIERZE.cpp
+
+CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Wiktor\CLionProjects\SPOJ_C++\FIBOMACIERZE.cpp > CMakeFiles\SPOJ_C__.dir\FIBOMACIERZE.cpp.i
+
+CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Wiktor\CLionProjects\SPOJ_C++\FIBOMACIERZE.cpp -o CMakeFiles\SPOJ_C__.dir\FIBOMACIERZE.cpp.s
+
 # Object files for target SPOJ_C__
 SPOJ_C___OBJECTS = \
 "CMakeFiles/SPOJ_C__.dir/main.cpp.obj" \
@@ -169,7 +208,10 @@ SPOJ_C___OBJECTS = \
 "CMakeFiles/SPOJ_C__.dir/SUMAN.cpp.obj" \
 "CMakeFiles/SPOJ_C__.dir/TRN.cpp.obj" \
 "CMakeFiles/SPOJ_C__.dir/VSR.cpp.obj" \
-"CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.obj"
+"CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.obj" \
+"CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj" \
+"CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj" \
+"CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj"
 
 # External object files for target SPOJ_C__
 SPOJ_C___EXTERNAL_OBJECTS =
@@ -182,11 +224,14 @@ SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/SUMAN.cpp.obj
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/TRN.cpp.obj
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/VSR.cpp.obj
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.obj
+SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj
+SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj
+SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/build.make
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/linklibs.rsp
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/objects1.rsp
 SPOJ_C__.exe: CMakeFiles/SPOJ_C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Wiktor\CLionProjects\SPOJ_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable SPOJ_C__.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Wiktor\CLionProjects\SPOJ_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable SPOJ_C__.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SPOJ_C__.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
