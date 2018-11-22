@@ -89,6 +89,9 @@
 		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/FZI_STEF.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/MACIERZWEKTOR.cpp">
+			<Option target="SPOJ_C__"/>
+		</Unit>
 		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/PTEST.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>

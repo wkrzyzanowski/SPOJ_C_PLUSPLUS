@@ -203,6 +203,33 @@ FZI_STEF.cpp.s:
 	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/FZI_STEF.cpp.s
 .PHONY : FZI_STEF.cpp.s
 
+MACIERZWEKTOR.obj: MACIERZWEKTOR.cpp.obj
+
+.PHONY : MACIERZWEKTOR.obj
+
+# target to build an object file
+MACIERZWEKTOR.cpp.obj:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/MACIERZWEKTOR.cpp.obj
+.PHONY : MACIERZWEKTOR.cpp.obj
+
+MACIERZWEKTOR.i: MACIERZWEKTOR.cpp.i
+
+.PHONY : MACIERZWEKTOR.i
+
+# target to preprocess a source file
+MACIERZWEKTOR.cpp.i:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/MACIERZWEKTOR.cpp.i
+.PHONY : MACIERZWEKTOR.cpp.i
+
+MACIERZWEKTOR.s: MACIERZWEKTOR.cpp.s
+
+.PHONY : MACIERZWEKTOR.s
+
+# target to generate assembly for a file
+MACIERZWEKTOR.cpp.s:
+	$(MAKE) -f CMakeFiles\SPOJ_C__.dir\build.make CMakeFiles/SPOJ_C__.dir/MACIERZWEKTOR.cpp.s
+.PHONY : MACIERZWEKTOR.cpp.s
+
 PTEST.obj: PTEST.cpp.obj
 
 .PHONY : PTEST.obj
@@ -437,6 +464,9 @@ help:
 	@echo ... FZI_STEF.obj
 	@echo ... FZI_STEF.i
 	@echo ... FZI_STEF.s
+	@echo ... MACIERZWEKTOR.obj
+	@echo ... MACIERZWEKTOR.i
+	@echo ... MACIERZWEKTOR.s
 	@echo ... PTEST.obj
 	@echo ... PTEST.i
 	@echo ... PTEST.s

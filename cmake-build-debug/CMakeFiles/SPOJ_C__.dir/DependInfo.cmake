@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Wiktor/CLionProjects/SPOJ_C++/EUC_GAME.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.obj"
   "C:/Users/Wiktor/CLionProjects/SPOJ_C++/FIBOMACIERZE.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj"
   "C:/Users/Wiktor/CLionProjects/SPOJ_C++/FZI_STEF.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/FZI_STEF.cpp.obj"
+  "C:/Users/Wiktor/CLionProjects/SPOJ_C++/MACIERZWEKTOR.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/MACIERZWEKTOR.cpp.obj"
   "C:/Users/Wiktor/CLionProjects/SPOJ_C++/PTEST.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/PTEST.cpp.obj"
   "C:/Users/Wiktor/CLionProjects/SPOJ_C++/RELACJA.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj"
   "C:/Users/Wiktor/CLionProjects/SPOJ_C++/RNO_DOD.cpp" "C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/CMakeFiles/SPOJ_C__.dir/RNO_DOD.cpp.obj"

@@ -10,6 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/SPOJ_C__.dir/STOS.cpp.obj"
   "CMakeFiles/SPOJ_C__.dir/RELACJA.cpp.obj"
   "CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj"
+  "CMakeFiles/SPOJ_C__.dir/MACIERZWEKTOR.cpp.obj"
   "SPOJ_C__.pdb"
   "SPOJ_C__.exe"
   "SPOJ_C__.exe.manifest"

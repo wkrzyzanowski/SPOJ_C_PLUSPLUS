@@ -3,6 +3,8 @@
 
 CMakeFiles/SPOJ_C__.dir/EUC_GAME.cpp.obj: ../EUC_GAME.cpp
 
+CMakeFiles/SPOJ_C__.dir/FIBOMACIERZE.cpp.obj: ../FIBOMACIERZE.cpp
+
 CMakeFiles/SPOJ_C__.dir/FZI_STEF.cpp.obj: ../FZI_STEF.cpp
 
 CMakeFiles/SPOJ_C__.dir/PTEST.cpp.obj: ../PTEST.cpp
