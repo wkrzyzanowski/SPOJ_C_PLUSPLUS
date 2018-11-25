@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SPOJ_C__">
-				<Option output="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/SPOJ_C__.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug"/>
+				<Option output="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/SPOJ_C__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -30,17 +30,18 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_C__"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_C__"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SPOJ_C__/fast">
-				<Option output="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/SPOJ_C__.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug"/>
+				<Option output="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/SPOJ_C__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -51,72 +52,76 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_C__/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 SPOJ_C__/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/EUC_GAME.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/EUC_GAME.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/FIBOMACIERZE.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/FIBOMACIERZE.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/FZI_STEF.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/FZI_STEF.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/MACIERZWEKTOR.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/KOLEJKA.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/PTEST.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/MACIERZWEKTOR.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/RELACJA.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/PTEST.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/RNO_DOD.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/RELACJA.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/STOS.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/RNO_DOD.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/SUMAN.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/STOS.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/TRN.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/SUMAN.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/VSR.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/TRN.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/main.cpp">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/VSR.cpp">
 			<Option target="SPOJ_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C++/CMakeLists.txt">
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/main.cpp">
+			<Option target="SPOJ_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/Wiktor/CLionProjects/SPOJ_C_PLUS_PLUS/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
